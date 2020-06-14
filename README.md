@@ -18,5 +18,5 @@ E sabe aquele bot virtual que nunca te responde da forma que você precisa? E pa
 
 ### Site
 
- * Link para acessar aplicação funcionando : https://poupando.alexsandrodev.com.br/
+ * Link para acessar aplicação funcionando : https://rotacerta.netlify.app/
 
