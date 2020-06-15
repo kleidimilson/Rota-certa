@@ -42,5 +42,5 @@ perdas de veículos e cargas.
 
 ### Link da Aplicação
 
-Link para acessar aplicação funcionando : https://rotacerta.netlify.app/
+Link para acessar a aplicação funcionando : https://rotacerta.netlify.app/
 
