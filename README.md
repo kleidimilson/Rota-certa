@@ -35,9 +35,8 @@ perdas de veículos e cargas.
 <p>O rota certa consiste em um aplicativo que auxilie o motorista desde o início da viagem até o final de seu trajeto de uma maneira simples e fácil, através de chat onde o robô inteligente orienta o motorista qual as melhores rodovias para se trafegar, as condições da sinalização, pavimento e segurança da via. Além disso, é disponibilizado para o motorista um botão de "PÂNICO" para ser acionado de maneira rápida quando o motorista precisar de ajuda ou se sentir ameaçado e também são disoonibilizados sms ao celular do motorista, indicando as melhores paradas para alimentação, descanso, abastecimento e até mesmo para passar a noite.</p>
 
 ### Telas
-<<<<<<< HEAD
-![alt img 1](https://github.com/kleidimilson/Rota-certa/blob/master/Telas/Capturar.PNG?raw=true)
-=======
+
+
 ![alt img 1](https://github.com/kleidimilson/Rota-certa/blob/master/Telas/Capturar.PNG?raw=true) 
 ![alt img 2](https://github.com/kleidimilson/Rota-certa/blob/master/Telas/imagem2.PNG?raw=true)
 ![alt img3](https://github.com/kleidimilson/Rota-certa/blob/master/Telas/imagem3.PNG?raw=true)
@@ -47,9 +46,6 @@ perdas de veículos e cargas.
 ![alt img7](https://github.com/kleidimilson/Rota-certa/blob/master/Telas/imagem7.PNG?raw=true)
 
 
-
-
->>>>>>> 2dededc5318fd6ede44a669de9f9b402d2e9791d
 ### Tecnologia utilizada
 <ul>
     <li>React Js</li>
