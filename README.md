@@ -1,6 +1,6 @@
-# Poupando 💰
+# Rota Certa 🚛
 
-## Desafio BMG
+## Desafio CCR
 
 ### Apresentação
 
@@ -39,7 +39,8 @@ perdas de veículos e cargas.
     <li>ReactJs</li>
     
 </ul>
-### Link da aplicação
 
- * Link para acessar aplicação funcionando : https://rotacerta.netlify.app/
+### Link da Aplicação
+
+Link para acessar aplicação funcionando : https://rotacerta.netlify.app/
 
