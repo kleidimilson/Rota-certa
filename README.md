@@ -34,7 +34,7 @@ perdas de veículos e cargas.
 
 <p>O rota certa consiste em um aplicativo que auxilie o motorista desde o início da viagem até o final de seu trajeto de uma maneira simples e fácil, através de chat onde o robô inteligente orienta o motorista qual as melhores rodovias para se trafegar, as condições da sinalização, pavimento e segurança da via. Além disso, é disponibilizado para o motorista um botão de "PÂNICO" para ser acionado de maneira rápida quando o motorista precisar de ajuda ou se sentir ameaçado e também são disoonibilizados sms ao celular do motorista, indicando as melhores paradas para alimentação, descanso, abastecimento e até mesmo para passar a noite.</p>
 
-### Tecnologia utlizada
+### Tecnologia utilizada
 <ul>
     <li>React Js</li>
     
