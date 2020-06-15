@@ -36,7 +36,7 @@ perdas de veículos e cargas.
 
 ### Tecnologia utlizada
 <ul>
-    <li>ReactJs</li>
+    <li>React Js</li>
     
 </ul>
 
