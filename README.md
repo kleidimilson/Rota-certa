@@ -42,6 +42,9 @@ perdas de veículos e cargas.
 ![alt img 2](https://github.com/kleidimilson/Rota-certa/blob/master/Telas/imagem2.PNG?raw=true)
 ![alt img3](https://github.com/kleidimilson/Rota-certa/blob/master/Telas/imagem3.PNG?raw=true)
 ![alt img4](https://github.com/kleidimilson/Rota-certa/blob/master/Telas/imagem4.PNG?raw=true)
+![alt img5](https://github.com/kleidimilson/Rota-certa/blob/master/Telas/imagem5.PNG?raw=true)
+![alt img6](https://github.com/kleidimilson/Rota-certa/blob/master/Telas/imagem6.PNG?raw=true)
+![alt img7](https://github.com/kleidimilson/Rota-certa/blob/master/Telas/imagem7.PNG?raw=true)
 
 
 
